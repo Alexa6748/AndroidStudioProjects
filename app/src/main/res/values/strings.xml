@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TerritoryOfOpportunities</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_up">Регистрация</string>
+    <string name="action_sign_in">Вход</string>
+    <string name="welcome">"Добро пожаловать на территорию возможностей"</string>
+    <string name="invalid_username">Неправильный логин</string>
+    <string name="invalid_password">Пароль должен быть не меньше 5 символов</string>
+    <string name="login_failed">"Вход не выполнен"</string>
+    <string name="username">ФИО</string>
+    <string name="dateofbirth">Дата рождения</string>
+    <string name="about">О себе</string>
+</resources>

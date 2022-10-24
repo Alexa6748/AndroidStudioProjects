@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207767137099",
+    "project_id": "territory-of-opportunities",
+    "storage_bucket": "territory-of-opportunities.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207767137099:android:f147a715d0b7b79d8416ce",
+        "android_client_info": {
+          "package_name": "com.example.territoryofopportunities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207767137099-456ao7qiufq86k400s10sunaqojbmh50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK6QMlzE_URCGCe2OW6EuI7gd4LN3XLJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207767137099-456ao7qiufq86k400s10sunaqojbmh50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
